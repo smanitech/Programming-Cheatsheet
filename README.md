@@ -1,6 +1,4 @@
 # Build A Programming Cheatsheet Skill
-<img src="https://lh3.googleusercontent.com/L3067VuGP_SfMSBqR0LF8BKtxOqHQdJxeZyB_8phegAVFeVtQAo2TTReIjuMt5sBIBVIjoE5rMtAn7jlvBROR0vfL1Xm11TpkJ-0u633EKUBDx9lruNcb4IH9gOm=w1920" />
-
 Increase or recall C programming knowledge by programming cheatsheet.
 Provided a list of interesting facts about C program terminology, Alexa will select a terminology at random and tell it to the user when the skill is invoked.
 
@@ -22,7 +20,7 @@ There are a number of different ways for you to setup your skill, depending on y
 ## Additional Resources
 
 ### Community
-* [Amazon Alexa Developer Community-LPU](https://aadc-lpu.web.app)
+* [Amazon Alexa Developer Community-LPU](https://alexadevslpu.tech/)
 
 ### Blog
 * [Beginning Of the Voice-First Revolution](https://link.medium.com/usr8CJSwyY)

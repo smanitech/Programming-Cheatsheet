@@ -1,0 +1,44 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "programming cheatsheet",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "slots": [],
+          "samples": [
+            "Tell me some C Terminology",
+            "C Terminology please",
+            "Tell me C Terminology",
+            "Tell me some C Terminology",
+            "Tell me some Programming Terminology",
+            "Tell me something about c",
+            "c",
+            "c program",
+            "c programming",
+            "Tell me something about c program",
+            "Tell me something about c programming"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "8"
+}
